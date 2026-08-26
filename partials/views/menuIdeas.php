@@ -154,7 +154,7 @@ button{
                 ?>
             </select>
             <button onclick="ideaAleatoria()">Idea Aleatoria</button>
-            <button onclick="window.location.href='/banco_ideas/dashboards/addIdeaDashboard.php'">Nueva Idea</button>
+            <button onclick="window.location.href='dashboards/addIdeaDashboard.php'">Nueva Idea</button>
 
         </div>
 
