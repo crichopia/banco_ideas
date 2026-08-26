@@ -1,4 +1,4 @@
-<?php include 'controllers/validarSesion.php'?>
+<?php include 'controllers/validarSesion.php;'?>
 <?php include 'partials/htmlHead.php'; ?>
 <?php include 'partials/views/header.php'; ?>
 <link rel='icon' href='favico.ico' type='image/x-icon' sizes="16x16" />
